@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Development (SDLC), Computer Systems, Web App & Design**
 
-- 👨‍💻 All of my projects are available at [https://cwarre33.github.io/portfolio/index.html](https://cwarre33.github.io/portfolio/index.html)
+- 👨‍💻 All of my projects are available at [https://cwarre33.github.io/portfolio/project.html](https://cwarre33.github.io/portfolio/project.html)
 
 - 💬 Ask me about **React, Node.js, Advanced Java, Python, SQL (Database), HTML, CSS3, Spring Framework, C, C++, Algorithm Design, Linear Algebra, Operating Systems, Networking, Machine Learning, Website Deployment, Database Management**
 
