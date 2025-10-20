@@ -12,8 +12,8 @@ I'm a passionate software engineer building scalable applications and exploring 
 
 ## 🚀 What I'm Up To
 
-- 🔭 Building **SofaScope** - Actively developing this project
-- 🤖 Researching emerging AI technologies and evaluating AI models at Furnitureland South
+- 🔭 Building **SofaScope** - AI-powered furniture search platform using CLIP + FAISS for visual similarity matching, deployed with Docker microservices (95% performance improvement). Developed during my role at Furnitureland South to transform how customers discover products
+- 🤖 Researching emerging AI technologies and evaluating AI models to drive business strategy
 - 📚 Studying Software Development Lifecycle, Computer Systems, and Advanced Algorithms
 - 🌱 Exploring machine learning, LangGraph, and cloud deployment strategies
 - 🎯 Seeking internship opportunities for Summer 2026
@@ -21,7 +21,7 @@ I'm a passionate software engineer building scalable applications and exploring 
 ## 💼 Experience
 
 **Jr. AI Research Analyst** @ Furnitureland South *(Aug 2025 - Present)*  
-Researching AI technologies, evaluating models, and analyzing competitive trends to drive business strategy
+Researching AI technologies, evaluating models, and analyzing competitive trends. Currently developing **SofaScope**, an AI-powered furniture search platform that uses computer vision (CLIP) and vector search (FAISS) to enable visual product discovery. Architected Docker-based microservices deployment that reduced search latency from 15 seconds to 500ms.
 
 **IT Intern** @ Furnitureland South *(May 2025 - Aug 2025)*  
 Supported technical infrastructure and gained hands-on experience with enterprise systems
@@ -43,7 +43,7 @@ Bachelor of Science in Computer Science *(Expected Dec 2026)*
 ## 📂 Featured Projects
 
 Check out my [portfolio website](https://cwarre33.github.io/portfolio/project.html) to see all my projects, including:
-- **SofaScope** - Currently in active development
+- **SofaScope** - AI-powered furniture search platform built at Furnitureland South. Features Next.js frontend with FastAPI backend, CLIP embeddings for visual search, FAISS vector database, and containerized microservices architecture. Achieved 95% reduction in search latency through architectural optimization.
 - **Colmar Academy Website** - Responsive educational platform with modern UI/UX
 
 ## 📫 Let's Connect
