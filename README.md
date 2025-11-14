@@ -16,7 +16,7 @@ I'm a passionate software engineer building scalable applications and exploring 
 - 🤖 Researching emerging AI technologies and evaluating AI models to drive business strategy
 - 📚 Studying Software Development Lifecycle, Computer Systems, and Advanced Algorithms
 - 🌱 Exploring machine learning, LangGraph, and cloud deployment strategies
-- 🎯 Seeking internship opportunities for Summer 2026
+
 
 ## 💼 Experience
 
