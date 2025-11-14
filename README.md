@@ -38,7 +38,7 @@ Supported technical infrastructure and gained hands-on experience with enterpris
 ## 🎓 Education
 
 **University of North Carolina at Charlotte**  
-Bachelor of Science in Computer Science *(Expected Dec 2026)*
+Bachelor of Science in Computer Science *(Expected Dec 2025)*
 
 ## 📂 Featured Projects
 
