@@ -1,74 +1,142 @@
-# Hi there, I'm Cameron Warren 👋
-
-### CS Student @ UNC Charlotte | Jr. AI Research Analyst | Full-Stack Developer
-
-I'm a passionate software engineer building scalable applications and exploring the intersection of AI and practical software solutions. Currently pursuing my BS in Computer Science while working part-time as a Jr. AI Research Analyst at Furnitureland South, where I research emerging AI technologies and transform complex findings into actionable business insights.
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cwarre33&label=Profile%20views&color=0e75b6&style=flat" alt="cwarre33" />
-</p>
-
----
-
-## 🚀 What I'm Up To
-
-- 🔭 Building **SofaScope** - AI-powered furniture search platform using CLIP + FAISS for visual similarity matching, deployed with Docker microservices (95% performance improvement). Developed during my role at Furnitureland South to transform how customers discover products
-- 🤖 Researching emerging AI technologies and evaluating AI models to drive business strategy
-- 📚 Studying Software Development Lifecycle, Computer Systems, and Advanced Algorithms
-- 🌱 Exploring machine learning, LangGraph, and cloud deployment strategies
-
-
-## 💼 Experience
-
-**Jr. AI Research Analyst** @ Furnitureland South *(Aug 2025 - Present)*  
-Researching AI technologies, evaluating models, and analyzing competitive trends. Currently developing **SofaScope**, an AI-powered furniture search platform that uses computer vision (CLIP) and vector search (FAISS) to enable visual product discovery. Architected Docker-based microservices deployment that reduced search latency from 15 seconds to 500ms.
-
-**IT Intern** @ Furnitureland South *(May 2025 - Aug 2025)*  
-Supported technical infrastructure and gained hands-on experience with enterprise systems
-
-## 🛠️ Tech Stack
-
-**Languages:** Java • Python • JavaScript • C • C++ • SQL • HTML5 • CSS3  
-**Frontend:** React • Next.js • Tailwind CSS • Bootstrap  
-**Backend:** Node.js • Express • Spring Framework  
-**Databases:** PostgreSQL • MySQL • MongoDB • SQLite • Oracle  
-**Tools & Cloud:** Git • Jira • AWS • Zendesk • Bash  
-**Data & AI:** Pandas • Seaborn • LangGraph • Machine Learning
-
-## 🎓 Education
-
-**University of North Carolina at Charlotte**  
-Bachelor of Science in Computer Science *(Expected Dec 2025)*
-
-## 📂 Featured Projects
-
-Check out my [portfolio website](https://cwarre33.github.io/portfolio/project.html) to see all my projects, including:
-- **SofaScope** - AI-powered furniture search platform built at Furnitureland South. Features Next.js frontend with FastAPI backend, CLIP embeddings for visual search, FAISS vector database, and containerized microservices architecture. Achieved 95% reduction in search latency through architectural optimization.
-- **Colmar Academy Website** - Responsive educational platform with modern UI/UX
-
-## 📫 Let's Connect
-
-- 📧 Email: cwarre33@uncc.edu
-- 💼 LinkedIn: [cameron-warren](https://www.linkedin.com/in/cameron-warren-73a0192b2/)
-- 🌐 Portfolio: [cwarre33.github.io/portfolio](https://cwarre33.github.io/portfolio/project.html)
-- 📄 Resume: [View My Resume](https://cwarre33.github.io/portfolio/downloads/CameronWarrenResumeDownload.pdf)
-
-## ⚡ Fun Fact
-
-When I'm not coding, you'll find me outdoors rock climbing, hiking, or trail running around North Carolina!
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cwarre33&show_icons=true&locale=en&layout=compact&theme=default" alt="cwarre33" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Cameron%20Warren&fontAlign=50&fontAlignY=42&color=0:0b1f16,50:123c2d,100:1f6f50&fontColor=e8fff6&animation=fadeIn&desc=Software%20Engineer%20•%20AI%20Systems%20•%20Full-Stack%20Development&descAlign=50&descAlignY=65" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cwarre33&theme=default" alt="cwarre33" />
+  <a href="https://linkedin.com/in/cameron-warren-73a0192b2"><img src="https://img.shields.io/badge/LinkedIn-0b1f16?style=for-the-badge&logo=linkedin&logoColor=5cffb2" /></a>
+  <a href="mailto:cwarre33@alumni.uncc.edu"><img src="https://img.shields.io/badge/Email-0b1f16?style=for-the-badge&logo=gmail&logoColor=5cffb2" /></a>
+  <img src="https://komarev.com/ghpvc/?username=cwarre33&style=for-the-badge&color=0b1f16&label=Profile+Views" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5CFFB2&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+that+scale;Obsessed+with+sub-second+latency;Making+AI+actually+useful" />
+</p>
+
+<br>
+
+## 🎯 What I'm About
+
+I build systems where **AI meets engineering rigor**—not demos, but production systems that handle real load and real users. My sweet spot is the intersection of machine learning, search infrastructure, and clean architecture.
+
+Currently deep in the worlds of **vector search**, **retrieval systems**, and figuring out how to make ML pipelines that don't fall over at 2am.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🚀 Flagship Project — SofaScope
+
+<table>
+<tr>
+<td width="60%">
+
+### AI-Powered Visual Search Platform
+
+Ever tried finding "that couch I saw somewhere" in a catalog of 50,000 products? **SofaScope** solves that.
+
+It's a production visual similarity search engine that lets users discover products by *what they look like*, not just what they're called. Upload an image, get instant matches.
+
+**🔗 [See it live →](https://sofascope.furniturelandsouth.com)**
+
+</td>
+<td width="40%">
+
+```
+┌─────────────────────────┐
+│  📸 Image Upload        │
+│         ↓               │
+│  🧠 CLIP Embedding      │
+│         ↓               │
+│  ⚡ FAISS Vector Search │
+│         ↓               │
+│  🎯 Top-K Results       │
+│      < 500ms            │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+### The Numbers That Matter
+
+| Metric | Before | After | Impact |
+|--------|--------|-------|--------|
+| End-to-end latency | ~15s | **<500ms** | 🔥 **30x faster** |
+| Search relevance | Keyword-only | Semantic + Visual | ✨ Actually finds what you want |
+
+### Under the Hood
+
+- **CLIP embeddings** for unified image/text understanding
+- **FAISS** with optimized index structures for sub-linear search
+- **Dockerized microservices** because monoliths are for monuments
+- Custom embedding pipeline that doesn't choke on large catalogs
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## ⚙️ Tech Stack
 
 <p align="center">
-  <i>Open to internship opportunities and collaborative projects!</i>
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi,docker,aws,postgres,git&theme=dark" />
+</p>
+
+<details>
+<summary><b>📋 The Full Breakdown</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, TypeScript, JavaScript, SQL |
+| **Frontend** | React, Component-driven architecture, Responsive design |
+| **Backend** | FastAPI, Node.js, RESTful APIs |
+| **AI/ML** | Embedding pipelines, Vector search (FAISS), Model serving |
+| **Infrastructure** | Docker, AWS, CI/CD, Git |
+
+</details>
+
+<br>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0b1f16&title_color=5cffb2&text_color=e8fff6&icon_color=5cffb2&border_color=123c2d" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0b1f16&ring=5cffb2&fire=5cffb2&currStreakLabel=5cffb2&border=123c2d" height="165" />
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🧭 What Gets Me Excited
+
+```python
+interests = {
+    "🔍 Search & Retrieval": "Making finding things feel like magic",
+    "🤖 AI-Native Products": "Not AI for AI's sake—AI that solves real problems",
+    "⚡ Performance": "If it's slow, it's broken",
+    "🏗️ System Design": "The art of making complex things simple",
+    "🎨 Developer Experience": "Good APIs are a love language"
+}
+```
+
+<br>
+
+## 💬 Let's Talk
+
+I'm always down to chat about interesting engineering problems, AI systems that actually ship, or wild product ideas.
+
+<p align="center">
+  <i>The best conversations start with "what if we could..."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0b1f16,50:123c2d,100:1f6f50&section=footer" />
 </p>
